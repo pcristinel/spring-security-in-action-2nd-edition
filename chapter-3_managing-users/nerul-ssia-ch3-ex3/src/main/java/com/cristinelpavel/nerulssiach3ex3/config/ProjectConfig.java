@@ -1,4 +1,4 @@
-package com.cristinelpavel.nerulssiach3ex2.config;
+package com.cristinelpavel.nerulssiach3ex3.config;
 
 import javax.sql.DataSource;
 import org.springframework.context.annotation.Bean;

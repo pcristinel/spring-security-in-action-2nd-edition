@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cristinelpavel</groupId>
-	<artifactId>nerul-ssia-ch3-ex2</artifactId>
+	<artifactId>nerul-ssia-ch3-ex3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>nerul-ssia-ch3-ex2</name>
-	<description>Spring Security in Action - Chapter 3 Exercise 2</description>
+	<name>nerul-ssia-ch3-ex3</name>
+	<description>Spring Security in Action - Chapter 3 Exercise 3</description>
 	<properties>
 		<java.version>21</java.version>
 	</properties>
